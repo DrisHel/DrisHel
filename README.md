@@ -1,4 +1,4 @@
- ## :octocat:  Olá eu sou Dris! :capricorn: 
+ ## :octocat:  Olá me chame de Dris que está tudo certo (risos)! :capricorn: 
 
 - Trabalho com Node.Js, :computer:
 - Estudando JavaScript, TypeScript, :books:
