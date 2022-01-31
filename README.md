@@ -1,7 +1,9 @@
- ## :octocat:  Olá me chame de Dris que está tudo certo (risos)! :capricorn: 
+ ## :octocat:  Bem vindos(as)!
 
-- Estudando JavaScript, TypeScript, :books:
+- Estudando JavaScript e TypeScript, :books:
 - Graduanda em Análise e Desenvolvimento de Sistemas _ IFRS  :woman_student:
+- Utilizo Vs Code e Github como ferramentas para desenvolvimento,
+- Em constante aprendizagem, foco em aperfeiçoamento.
 
 <div align="center">
   <a href="https://github.com/DrisHel">
