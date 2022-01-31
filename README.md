@@ -1,6 +1,5 @@
  ## :octocat:  Olá me chame de Dris que está tudo certo (risos)! :capricorn: 
 
-- Trabalho com Node.Js, :computer:
 - Estudando JavaScript, TypeScript, :books:
 - Graduanda em Análise e Desenvolvimento de Sistemas _ IFRS  :woman_student:
 
