@@ -4,7 +4,6 @@
 
  
  ## :octocat:  Bem vindos(as)!
- Analysis and systems development
 
 - Estudando JavaScript e TypeScript, :books:
 - Graduanda em Análise e Desenvolvimento de Sistemas _ IFRS  :woman_student:
