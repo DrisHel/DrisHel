@@ -4,7 +4,7 @@
 - Graduanda em Análise e Desenvolvimento de Sistemas _ IFRS  :woman_student:
 - Utilizo Vs Code e Github como ferramentas para desenvolvimento,
 - Em constante aprendizagem, foco em aperfeiçoamento.
-<!--
+  
 <div align="center">
   <a href="https://github.com/DrisHel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrisHel&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" /> 
           
 </div> 
-  -->
+  
         
     
       
